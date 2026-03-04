@@ -104,3 +104,7 @@ Tests use Vitest with jsdom and `@testing-library/react`. Test files live in `__
 ## Code Style
 
 Use comments sparingly — only for complex logic that isn't self-evident from the code.
+
+## Browser
+
+When opening anything in a browser, always use the dia browser that is already installed.
